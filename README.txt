@@ -1,8 +1,5 @@
-ANY INPUT WILL BREAK THE STARTING CIRCLE PATHING OF THE BOID
-LEFT CLICK - DYNAMIC SEEK
-RIGHT CLICK - DYNAMIC ARRIVE
-Q - WANDER WITH FACING BEHAVIOR
-E - WANDER WITH LOOKWHEREGOING BEHAVIOR
-TAB - SPAWN BOIDS AND START FLOCKING - STOPS ALL OTHER BEHAVIORS ONCE HIT
+Click to move the boid
 
-All of my code lives inside the Engine folder
+using Euclidean distance heuristic on current A*
+
+Write up is in project folder and this folder
